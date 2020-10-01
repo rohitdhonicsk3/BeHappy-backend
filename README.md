@@ -1,5 +1,5 @@
 # BeHappy-backend
-The backend of the BeHappy APP
+The backend of the BeHappy APP. The data about all psychometrists are stored here, and an API is created.
 
 ## The Documentation
 
